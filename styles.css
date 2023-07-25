@@ -1,1 +1,23 @@
-/* Write your CSS here! */
+*{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+body{
+    margin: 8px;
+    display: block;
+    background-color: #FDEDEC;
+    text-align: center;
+    /* margin-left:auto;
+    margin-right: auto; */
+}
+
+#mainHeading{
+    color: red;
+}
+.footer{
+    color: #9B59B6;
+}
+.funParagraph{
+    color: green;
+    font-weight: bold;
+}
